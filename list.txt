@@ -69,6 +69,7 @@ morebees-1.12.2-2.0.1.jar
 moreoverlays-1.15.1-mc1.12.2.jar
 MorePlanetsExtras-1.12.2-1.0.jar
 MoreTweaker-1.0.11.jar
+Morpheus-1.12.2-3.5.106.jar
 MouseTweaks-2.10-mc1.12.2.jar
 MrTJPCore-1.12.2-2.1.4.43-universal.jar
 MTLib-3.0.6.jar
