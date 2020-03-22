@@ -10,20 +10,20 @@
         }
     },
     "buttons": {
-        "original-menu": {
-            "text": "Original menu",
+        "connect-to-server": {
+            "text": "§a§lConnect to server",
             "posX": -60,
-            "posY": 50,
+            "posY": 0,
             "width": 120,
             "height": 20,
             "alignment": "center",
             "action": {
-                "type": "openGui",
-                "gui": "custom.defmenu"
+                "type": "connectToServer",
+                "ip": "87.197.146.39:25565"
             }
         },
         "COVID-stream": {
-            "text": "COVID-19 YT stream",
+            "text": "§c§lCOVID-19 YT stream",
             "posX": -60,
             "posY": 25,
             "width": 120,
@@ -35,16 +35,16 @@
                 "link": "https://www.youtube.com/watch?v=qgylp3Td1Bw"
             }
         },
-        "connect-to-server": {
-            "text": "Connect to server",
+        "original-menu": {
+            "text": "Original menu",
             "posX": -60,
-            "posY": 0,
+            "posY": 50,
             "width": 120,
             "height": 20,
             "alignment": "center",
             "action": {
                 "type": "openGui",
-                "gui": "multiplayer"
+                "gui": "custom.defmenu"
             }
         }
     },
