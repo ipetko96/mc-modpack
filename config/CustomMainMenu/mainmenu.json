@@ -1,0 +1,91 @@
+{
+    "images": {
+        "title": {
+            "image": "covid-19:images/covid.png",
+            "posX": -125,
+            "posY": 50,
+            "width": 250,
+            "height": 50,
+            "alignment": "top_center"
+        }
+    },
+    "buttons": {
+        "original-menu": {
+            "text": "Original menu",
+            "posX": -60,
+            "posY": 50,
+            "width": 120,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "custom.defmenu"
+            }
+        },
+        "COVID-stream": {
+            "text": "COVID-19 YT stream",
+            "posX": -60,
+            "posY": 25,
+            "width": 120,
+            "height": 20,
+            "alignment": "center",
+            "color": "red",
+            "action": {
+                "type": "openLink",
+                "link": "https://www.youtube.com/watch?v=qgylp3Td1Bw"
+            }
+        },
+        "connect-to-server": {
+            "text": "Connect to server",
+            "posX": -60,
+            "posY": 0,
+            "width": 120,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        }
+    },
+    "labels": {
+        "srv-news": {
+            "text": {
+                "type": "web",
+                "url": "https://raw.githubusercontent.com/uptlak/mc-modpack/1.12.2/modpack-info",
+                "refreshInterval": 60
+            },
+            "hoverText": "News about modpack and server.",
+            "posX": 2,
+            "posY": 2,
+            "color": -1,
+            "alignment": "top_left"
+        },
+        "author": {
+            "text": "§a§luptlak",
+            "hoverText": "Author of the modpack.",
+            "posX": -1,
+            "posY": -4,
+            "color": -1,
+            "alignment": "bottom_right",
+            "anchor": "end",
+            "fontSize": 0.4
+        },
+        "placeholder-test": {
+            "posX": 1,
+            "posY": -15,
+            "color": -1,
+            "hoverColor": -1,
+            "text": "Modpack 1.0.0\nMinecraft #mcversion#\nForge Mod Loader #forgeversion#\n#modsloaded# mods loaded, #modsactive# mods active",
+            "hoverText": "\n\n\nVersions",
+            "alignment": "bottom_left",
+            "fontSize": 0.4
+        }
+    },
+    "other": {
+        "background": {
+            "image": "covid-19:background/bg.png",
+            "mode": "stretch"
+        }
+    }
+}
