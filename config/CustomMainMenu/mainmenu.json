@@ -76,7 +76,7 @@
             "posY": -15,
             "color": -1,
             "hoverColor": -1,
-            "text": "Modpack 1.0.0\nMinecraft #mcversion#\nForge Mod Loader #forgeversion#\n#modsloaded# mods loaded, #modsactive# mods active",
+            "text": "Modpack 1.1.0\nMinecraft #mcversion#\nForge Mod Loader #forgeversion#\n#modsloaded# mods loaded, #modsactive# mods active",
             "hoverText": "\n\n\nVersions",
             "alignment": "bottom_left",
             "fontSize": 0.4
