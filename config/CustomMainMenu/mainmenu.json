@@ -11,7 +11,7 @@
     },
     "buttons": {
         "connect-to-server": {
-            "text": "§a§lConnect to server",
+            "text": "Â§aÂ§lConnect to server",
             "posX": -60,
             "posY": 0,
             "width": 120,
@@ -23,7 +23,7 @@
             }
         },
         "COVID-stream": {
-            "text": "§c§lCOVID-19 YT stream",
+            "text": "Â§cÂ§lCOVID-19 YT stream",
             "posX": -60,
             "posY": 25,
             "width": 120,
@@ -62,7 +62,7 @@
             "alignment": "top_left"
         },
         "author": {
-            "text": "§a§luptlak",
+            "text": "Â§aÂ§luptlak",
             "hoverText": "Author of the modpack.",
             "posX": -1,
             "posY": -4,
@@ -76,7 +76,7 @@
             "posY": -15,
             "color": -1,
             "hoverColor": -1,
-            "text": "Modpack 1.1.0\nMinecraft #mcversion#\nForge Mod Loader #forgeversion#\n#modsloaded# mods loaded, #modsactive# mods active",
+            "text": "Modpack 1.1.1\nMinecraft #mcversion#\nForge Mod Loader #forgeversion#\n#modsloaded# mods loaded, #modsactive# mods active",
             "hoverText": "\n\n\nVersions",
             "alignment": "bottom_left",
             "fontSize": 0.4
